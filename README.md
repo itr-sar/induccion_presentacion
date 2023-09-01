@@ -8,9 +8,10 @@ Siga paso a paso los comandos en este documento y grabe un video de su servidor 
      a. Ejemplo de indexación con comando ```ls -l /home/```.
      
      b. Texto en bold **HOLA**
+     
      c. Texto en cursiva *HOLA*
      
-  2. Más ejemplos...
+  3. Más ejemplos...
      
      a. Comando con Copy
 
