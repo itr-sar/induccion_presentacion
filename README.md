@@ -19,3 +19,5 @@ Siga paso a paso los comandos en este documento y grabe un video de su servidor 
      mv testfile.txt testfile1.txt
      ```
      b. Colocar un LINK: [Google](https://www.google.com)
+
+      c. [Spell Check](https://www.grammarly.com/spell-checker)
