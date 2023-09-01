@@ -11,6 +11,8 @@ Siga paso a paso los comandos en este documento y grabe un video de su servidor 
      
   2. Corra el comando ```sudo useradd -d /home/newuser2 newuser2```.
      
-     a. Corra el comando ```ls -l /home/```
+     a. Corra el comando
+
+     ```ls -l /home/```
 
      b. ¿Logra ver el directorio para el nuevo usuario?
