@@ -21,4 +21,5 @@ Siga paso a paso los comandos en este documento y grabe un video de su servidor 
      b. Colocar un LINK: [Google](https://www.google.com)
 
       c. [Spell Check](https://www.grammarly.com/spell-checker)
-     d. [Best Practices for Markdown](https://google.github.io/styleguide/docguide/style.html)
+
+        d. [Best Practices for Markdown](https://google.github.io/styleguide/docguide/style.html)
